@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\b8d2fd6eacdcbf48f5b4df17f1e4121f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\2d8345a1939acf6ac0038a83d1e61d48\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\8dbec8f8c710e495667cb30501820978\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\0ed44e00f12bc65b2814850619b087e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\0b136f8cee998d20a43a0a8d62c8fb11\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\395900148f764908a5943efc1cfa1d29\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\316fa399181abd5edcfda9bf75e875e7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\97d047045ba4f4c621fa4b711589cc67\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\3656fbe2a1414914fe5969bd77f7237b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\84f21405d18c5ccaf2fb6ce1ff6e2b20\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\b4656dfa6e6d2498f55929bc15d5e68b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\a9dc4215906ea55e967334c82b1d082a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\dede2dcdb2f32efe94fd42ac6ea718c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\faa8fe4bd00f6f86f2b2d8b3323cbd6e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\21ed8219cb095ababc1b8fec545ce6dc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\8ec7b7478b62ddd3f72f323578c05e4f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\7bf98cb04e8b22ab387f1c24f80da9f2\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\252352ad84d3f7dbd3a1483613bc3938\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\9e27731fd6a132e986fc3f276034b07e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\baa06318a27860c8d2204659364a4cd8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\f6c5d2250f14f253f99686a691684dda\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\a4ecf5928851ad08ace4edd16e9f6f3c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\88c1510cc43fda0708955a1bfc94a1cc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\c6f50804d33573a564021def1a67afbb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\1db95fc5154887e150e13c5cb8efd869\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\5d440fcab82f97da30eaf1d85e33ba81\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\11b9a899a7261b9a98f362b6e2da9981\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\2d8345a1939acf6ac0038a83d1e61d48\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\2d8345a1939acf6ac0038a83d1e61d48\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\8ec7b7478b62ddd3f72f323578c05e4f\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\8ec7b7478b62ddd3f72f323578c05e4f\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\7bf98cb04e8b22ab387f1c24f80da9f2\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\7bf98cb04e8b22ab387f1c24f80da9f2\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\8ec7b7478b62ddd3f72f323578c05e4f\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.imagebuttondemo.MainActivity
+ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml
+INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\b8d2fd6eacdcbf48f5b4df17f1e4121f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\b8d2fd6eacdcbf48f5b4df17f1e4121f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\2d8345a1939acf6ac0038a83d1e61d48\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\2d8345a1939acf6ac0038a83d1e61d48\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\8dbec8f8c710e495667cb30501820978\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\8dbec8f8c710e495667cb30501820978\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\0ed44e00f12bc65b2814850619b087e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\0ed44e00f12bc65b2814850619b087e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\0b136f8cee998d20a43a0a8d62c8fb11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\0b136f8cee998d20a43a0a8d62c8fb11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\395900148f764908a5943efc1cfa1d29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\395900148f764908a5943efc1cfa1d29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\316fa399181abd5edcfda9bf75e875e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\316fa399181abd5edcfda9bf75e875e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\97d047045ba4f4c621fa4b711589cc67\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\97d047045ba4f4c621fa4b711589cc67\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\3656fbe2a1414914fe5969bd77f7237b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\3656fbe2a1414914fe5969bd77f7237b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\84f21405d18c5ccaf2fb6ce1ff6e2b20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\84f21405d18c5ccaf2fb6ce1ff6e2b20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\b4656dfa6e6d2498f55929bc15d5e68b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\b4656dfa6e6d2498f55929bc15d5e68b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\a9dc4215906ea55e967334c82b1d082a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\a9dc4215906ea55e967334c82b1d082a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\dede2dcdb2f32efe94fd42ac6ea718c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\dede2dcdb2f32efe94fd42ac6ea718c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\faa8fe4bd00f6f86f2b2d8b3323cbd6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\faa8fe4bd00f6f86f2b2d8b3323cbd6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\21ed8219cb095ababc1b8fec545ce6dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\21ed8219cb095ababc1b8fec545ce6dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\8ec7b7478b62ddd3f72f323578c05e4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\8ec7b7478b62ddd3f72f323578c05e4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\7bf98cb04e8b22ab387f1c24f80da9f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\7bf98cb04e8b22ab387f1c24f80da9f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\252352ad84d3f7dbd3a1483613bc3938\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\252352ad84d3f7dbd3a1483613bc3938\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\9e27731fd6a132e986fc3f276034b07e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\9e27731fd6a132e986fc3f276034b07e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\baa06318a27860c8d2204659364a4cd8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\baa06318a27860c8d2204659364a4cd8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\f6c5d2250f14f253f99686a691684dda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\f6c5d2250f14f253f99686a691684dda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\a4ecf5928851ad08ace4edd16e9f6f3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\a4ecf5928851ad08ace4edd16e9f6f3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\88c1510cc43fda0708955a1bfc94a1cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\88c1510cc43fda0708955a1bfc94a1cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\c6f50804d33573a564021def1a67afbb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\c6f50804d33573a564021def1a67afbb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\1db95fc5154887e150e13c5cb8efd869\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\1db95fc5154887e150e13c5cb8efd869\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\5d440fcab82f97da30eaf1d85e33ba81\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\5d440fcab82f97da30eaf1d85e33ba81\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\11b9a899a7261b9a98f362b6e2da9981\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\debjo\.gradle\caches\transforms-2\files-2.1\11b9a899a7261b9a98f362b6e2da9981\AndroidManifest.xml:20:5-44
+INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml
+INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\FOLDER IMP\New folder\study\Android Assignments\ImageButtonDemo\app\src\main\AndroidManifest.xml
